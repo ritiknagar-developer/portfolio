@@ -2,7 +2,7 @@ import React from 'react';
 import './MyWork.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
 import mywork_data from '../../assets/mywork_data';
-import arrow_icon from '../../assets/arrow_icon.svg';
+
 
 const MyWork = () => {
   return (
@@ -16,17 +16,14 @@ const MyWork = () => {
     return (
       <div key={index}> {/* Key placed correctly */}
         <img src={work.w_img} alt="" />
-        <a href={`https://${work.w_name}`} target="_blank" rel="noopener noreferrer">
+        <a href={`https://${work.w_name}`} target="_blank" rel="noopener noreferrer" style={{textDecoration:'none', color:'white',}}>
           View
         </a>
       </div>
     );
   })}
 </div>
-      <div className="mywork-showmore">
-        <p>Show More</p>
-        <img src={arrow_icon} alt="" />
-      </div>
+     
     </div>
   );
 };
