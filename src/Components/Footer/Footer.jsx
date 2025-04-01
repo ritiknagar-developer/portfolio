@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="footer-top-left">
                 {/* <img src={footer_logo} alt="" /> */}
                 <h1>Nagar</h1>
-                <p>I am frontend developer,from 
-                  Rajasthan, India with 1 years of experience  in multiple company and passionate developer.</p>
+                <p>I am MERN Stack Developer,from 
+                  Rajasthan, India with 6 Months of experience and passionate developer.</p>
 
             </div>
             <div className="footer-top-right">
