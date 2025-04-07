@@ -103,3 +103,11 @@
     }
 
 }
+
+
+@media  (max-width:600px) {
+   .hero{
+    /* margin-left: 68vw; */
+    width: 693px;
+   }
+}

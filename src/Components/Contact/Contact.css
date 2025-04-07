@@ -168,6 +168,14 @@
 }
 
 
+@media (max-width: 600px) {
+    .contact{
+        width: 506px;
+        margin-top: 101px;
+    }
+}
+
+
 
 
 

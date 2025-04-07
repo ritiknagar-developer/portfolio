@@ -96,6 +96,12 @@ position: relative;
 
 }
 
+@media (max-width:600px) {
+.mywork{
+    width: 562px;
+}    
+}
+
 
 
 

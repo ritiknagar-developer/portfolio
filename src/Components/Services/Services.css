@@ -114,6 +114,12 @@ z-index: -1;
 
 }
 
+@media (max-width:600px) {
+    .services-container{
+        margin-left: 40px;
+    }
+}
+
 
 
 

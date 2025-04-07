@@ -92,4 +92,13 @@ gap: 35px;
         margin-bottom: 50px;
     }
 }
+
+@media (max-width:600px) {
+    .footer-email-input{
+        margin-left: -18px;
+    }
+    .footer-top-left p{
+        width: 443px;
+    }
+}
  
