@@ -1,4 +1,4 @@
-import project1_img from '../assets/pet.img.png'
+import project1_img from '../assets/wanderlust.png'
 import project2_img from '../assets/ev.img.png'
 import project3_img from '../assets/edit.img.png'
 import project4_img from '../assets/pot.img.png'
@@ -8,7 +8,7 @@ import project4_img from '../assets/pot.img.png'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"pet-git-main-ritiks-projects-1bed9855.vercel.app",
+        w_name:"wanderlust-773r.onrender.com/listings",
         w_img:project1_img
     },
     {
