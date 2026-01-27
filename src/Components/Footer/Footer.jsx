@@ -11,7 +11,7 @@ const Footer = () => {
                 {/* <img src={footer_logo} alt="" /> */}
                 <h1>Nagar</h1>
                 <p>I am MERN Stack Developer,from 
-                  Rajasthan, India with 6 Months of experience and passionate developer.</p>
+                  Rajasthan, India with 1+ year of experience and passionate developer.</p>
 
             </div>
             <div className="footer-top-right">
