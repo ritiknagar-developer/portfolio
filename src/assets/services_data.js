@@ -34,11 +34,7 @@ const Services_Data = [
         s_name:"MongoDB",
         s_desc:"MongoDB is NoSQL database that stores data in a JSON-like format,allwing flexible data modeling..."
     },
-    {
-        s_no:"08",
-        s_name:"Bootstrap",
-        s_desc:"Bootstrap is a popular framework for building responsive,mobile-firs site..."
-    },
+ 
 ]
  
 export default Services_Data;
